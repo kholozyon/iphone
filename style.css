@@ -1,10 +1,19 @@
 body {
     background: green;
     color: white;
+    margin: 0;
     /* padding-top: constant(safe-area-inset-top);
     padding-top: env(safe-area-inset-top);
     padding-left: constant(safe-area-inset-top);
     padding-left: env(safe-area-inset-top);
     padding-right: constant(safe-area-inset-top);
     padding-right: env(safe-area-inset-top); */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img {
+    max-height: 600px;
+    width: 100%;
 }
