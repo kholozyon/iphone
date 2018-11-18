@@ -1,0 +1,10 @@
+body {
+    background: green;
+    color: white;
+    /* padding-top: constant(safe-area-inset-top);
+    padding-top: env(safe-area-inset-top);
+    padding-left: constant(safe-area-inset-top);
+    padding-left: env(safe-area-inset-top);
+    padding-right: constant(safe-area-inset-top);
+    padding-right: env(safe-area-inset-top); */
+}
